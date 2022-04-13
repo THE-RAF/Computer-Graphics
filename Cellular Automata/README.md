@@ -1,5 +1,5 @@
 ### Software for simulating computer automata in various forms. Some visualizations were implemented using simple convolution and non linear activation functions.
-The videos uploaded are in low resolution because of upload size limitations, the simulations can be performed in arbitrary resolution and tile scaling, using Numba and Cuda to leverage GPU parallel proccesing power.
+The videos uploaded are in low resolution because of upload size limitations, the simulations can be performed in arbitrary resolution and tile scaling, using Numba and Cuda to leverage GPU parallel processing power.
 
 Examples:
 
